@@ -12,7 +12,7 @@ A simple and responsive **Weather Application** that allows users to search for 
 
 ## 🛠️ Tech Stack
 
-- **React.js**
+
 - **JavaScript**
 
 - **HTML5**
